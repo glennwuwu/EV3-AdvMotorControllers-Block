@@ -179,6 +179,7 @@
 			<Parameter Name="E1" Identification="builtin://Identification_SensorPort_0.png" DataType="Single" Direction="Input" DefaultValue="0"/>
 			<Parameter Name="E2" Identification="builtin://Identification_SensorPort_1.png" DataType="Single" Direction="Input" DefaultValue="0"/>
 			<Parameter Name="Kp" Identification="OFDL_Kp.png" DataType="Single" Direction="Input" DefaultValue="0.12"/>
+			<Parameter Name="Kd" Identification="OFDL_Kd.png" DataType="Single" Direction="Input" DefaultValue="0.5"/>
 			<Parameter Name="Power1" Identification="builtin://Identification_Speed_Plus75.png" DataType="Single" Direction="Input" DefaultValue="50" MinValue="-100" MaxValue="100"/>
 			<Parameter Name="Power2" Identification="builtin://Identification_Speed_Plus75.png" DataType="Single" Direction="Input" DefaultValue="50" MinValue="-100" MaxValue="100"/>
 			<Parameter Name="LeftInversed" Identification="builtin://Identification_Invert_1.png" DataType="Boolean" Direction="Input" DefaultValue="False"/>

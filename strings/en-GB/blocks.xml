@@ -124,6 +124,9 @@
 			<Parameter Name="Kp" DisplayName="Kp">
 				<Description><![CDATA[<p>Accel Dist.</p>]]></Description>
 			</Parameter>
+			<Parameter Name="Kd" DisplayName="Kd">
+				<Description><![CDATA[<p>Minimum Raw value Set</p>]]></Description>
+			</Parameter>
 			<Parameter Name="Power1" DisplayName="Power Left">
 				<Description><![CDATA[<p>Decel Dist.</p>]]></Description>
 			</Parameter>
